@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDdMpFukE8R7KBU8xvsTN5Alb-Hqrr3mhY',
+    apiKey: 'HIDDEN_KEY',
     appId: '1:241347517776:web:f964ca509f9cd57773e055',
     messagingSenderId: '241347517776',
     projectId: 'gym-genius-f35e2',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDGkd4GWx0MIIj7DMt3xSCaiXM8BmBPJrQ',
+    apiKey: 'HIDDEN_KEY',
     appId: '1:241347517776:android:4e855e0d8b75c8e973e055',
     messagingSenderId: '241347517776',
     projectId: 'gym-genius-f35e2',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBUF7n7JTqOsMOncDs7OTLqhiOw0MHXYN0',
+    apiKey: 'HIDDEN_KEY',
     appId: '1:241347517776:ios:5bee41512abc82fe73e055',
     messagingSenderId: '241347517776',
     projectId: 'gym-genius-f35e2',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBUF7n7JTqOsMOncDs7OTLqhiOw0MHXYN0',
+    apiKey: 'HIDDEN_KEY',
     appId: '1:241347517776:ios:5bee41512abc82fe73e055',
     messagingSenderId: '241347517776',
     projectId: 'gym-genius-f35e2',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDdMpFukE8R7KBU8xvsTN5Alb-Hqrr3mhY',
+    apiKey: 'HIDDEN_KEY',
     appId: '1:241347517776:web:20272f55a4cd591473e055',
     messagingSenderId: '241347517776',
     projectId: 'gym-genius-f35e2',
